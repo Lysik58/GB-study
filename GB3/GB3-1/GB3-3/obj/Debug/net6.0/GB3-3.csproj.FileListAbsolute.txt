@@ -1,0 +1,5 @@
+/Users/lysik/code/GB/GB3/GB3-1/GB3-3/obj/Debug/net6.0/GB3-3.csproj.AssemblyReference.cache
+/Users/lysik/code/GB/GB3/GB3-1/GB3-3/obj/Debug/net6.0/GB3-3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lysik/code/GB/GB3/GB3-1/GB3-3/obj/Debug/net6.0/GB3-3.AssemblyInfoInputs.cache
+/Users/lysik/code/GB/GB3/GB3-1/GB3-3/obj/Debug/net6.0/GB3-3.AssemblyInfo.cs
+/Users/lysik/code/GB/GB3/GB3-1/GB3-3/obj/Debug/net6.0/GB3-3.csproj.CoreCompileInputs.cache

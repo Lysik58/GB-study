@@ -1,0 +1,15 @@
+/Users/lysik/code/GB/GB 1 -3/bin/Debug/net6.0/GB 1 -3
+/Users/lysik/code/GB/GB 1 -3/bin/Debug/net6.0/GB 1 -3.deps.json
+/Users/lysik/code/GB/GB 1 -3/bin/Debug/net6.0/GB 1 -3.runtimeconfig.json
+/Users/lysik/code/GB/GB 1 -3/bin/Debug/net6.0/GB 1 -3.dll
+/Users/lysik/code/GB/GB 1 -3/bin/Debug/net6.0/GB 1 -3.pdb
+/Users/lysik/code/GB/GB 1 -3/obj/Debug/net6.0/GB 1 -3.csproj.AssemblyReference.cache
+/Users/lysik/code/GB/GB 1 -3/obj/Debug/net6.0/GB 1 -3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lysik/code/GB/GB 1 -3/obj/Debug/net6.0/GB 1 -3.AssemblyInfoInputs.cache
+/Users/lysik/code/GB/GB 1 -3/obj/Debug/net6.0/GB 1 -3.AssemblyInfo.cs
+/Users/lysik/code/GB/GB 1 -3/obj/Debug/net6.0/GB 1 -3.csproj.CoreCompileInputs.cache
+/Users/lysik/code/GB/GB 1 -3/obj/Debug/net6.0/GB 1 -3.dll
+/Users/lysik/code/GB/GB 1 -3/obj/Debug/net6.0/refint/GB 1 -3.dll
+/Users/lysik/code/GB/GB 1 -3/obj/Debug/net6.0/GB 1 -3.pdb
+/Users/lysik/code/GB/GB 1 -3/obj/Debug/net6.0/GB 1 -3.genruntimeconfig.cache
+/Users/lysik/code/GB/GB 1 -3/obj/Debug/net6.0/ref/GB 1 -3.dll

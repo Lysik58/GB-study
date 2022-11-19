@@ -1,0 +1,11 @@
+﻿int i = 0;
+Console.WriteLine ("Введите первое число");
+int a = int.Parse (Console.ReadLine());
+if (a > i) {i = a;};
+Console.WriteLine ("Введите второе число");
+int b = int.Parse (Console.ReadLine());
+if (b > i) {i = b;};
+Console.WriteLine ("Введите третье число");
+int c = int.Parse (Console.ReadLine());
+if (c > i) {i = c;};
+Console.WriteLine ($"Большее число - {i}");
